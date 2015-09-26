@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lighting and Texturing", "Lighting and Texturing.vcxproj", "{A4C3A84D-769A-467A-B4DB-C958C782FF68}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Blur", "..\Blur\Blur.vcxproj", "{D9CBC680-BC4F-4D52-99C5-8A0B651657F4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BlurWithoutShader", "..\BlurWithoutShader\BlurWithoutShader.vcxproj", "{FF34C5EA-0468-4B1E-B349-C7F0E0D46724}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4C3A84D-769A-467A-B4DB-C958C782FF68}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A4C3A84D-769A-467A-B4DB-C958C782FF68}.Debug|Win32.Build.0 = Debug|Win32
+		{A4C3A84D-769A-467A-B4DB-C958C782FF68}.Release|Win32.ActiveCfg = Release|Win32
+		{A4C3A84D-769A-467A-B4DB-C958C782FF68}.Release|Win32.Build.0 = Release|Win32
+		{D9CBC680-BC4F-4D52-99C5-8A0B651657F4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D9CBC680-BC4F-4D52-99C5-8A0B651657F4}.Debug|Win32.Build.0 = Debug|Win32
+		{D9CBC680-BC4F-4D52-99C5-8A0B651657F4}.Release|Win32.ActiveCfg = Release|Win32
+		{D9CBC680-BC4F-4D52-99C5-8A0B651657F4}.Release|Win32.Build.0 = Release|Win32
+		{FF34C5EA-0468-4B1E-B349-C7F0E0D46724}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FF34C5EA-0468-4B1E-B349-C7F0E0D46724}.Debug|Win32.Build.0 = Debug|Win32
+		{FF34C5EA-0468-4B1E-B349-C7F0E0D46724}.Release|Win32.ActiveCfg = Release|Win32
+		{FF34C5EA-0468-4B1E-B349-C7F0E0D46724}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

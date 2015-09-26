@@ -1,0 +1,5 @@
+﻿  Blur.cpp
+Blur.cpp(294): warning C4018: '<' : signed/unsigned mismatch
+  Generating code
+  Finished generating code
+  Blur.vcxproj -> F:\GitHub\Projects\Shader\Lighting and Texturing\Release\Blur.exe
