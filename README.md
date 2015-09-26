@@ -1,5 +1,5 @@
 # GaussianBlur
-Gaussian Blur with HLSL Effect file 高斯图像模糊算法的实现
+Gaussian Blur with HLSL Effect file 高斯图像模糊算法的实现\n
 Author:JeromeCen 2015.6.12 编译出问题请联系：Jeromecen@hotmail.com qq:1021900404
 安装环境：VS2010 及其以后版本; 项目需要配置下DX SDK库head file和lib directory指定.
 
